@@ -1,0 +1,78 @@
+body{
+    color: rgb(0, 0, 0);
+    margin: 0;
+    text-align: center;
+    font-family:'merriweather', serif;
+    
+}
+h1{
+    color: rgb(247, 185, 231);
+    font-size: 200%;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    padding-bottom: 10px;
+}
+.top-container {
+    background-color: rgb(141, 96, 124);
+    background-size:cover;
+    background-repeat: no-repeat;
+    position: relative;
+    padding-top: 100px;
+    border-radius: 25px;
+
+}
+.nk{
+    text-align: center;
+    margin : 3%;
+
+}
+.n{
+    padding-top: 4rem;
+    background-color: rgb(250, 215, 241);
+    border-radius: 25px;
+}
+.m{
+    padding-top: 4rem;
+    background-color: rgb(247, 185, 231);
+    border-radius: 25px;
+}
+.o{
+    padding-top: 4rem;
+    background-color: rgb(250, 215, 241);
+    border-radius: 25px;
+}
+.p{
+    padding-top: 4rem;
+    background-color: rgb(247, 185, 231);
+    border-radius: 25px;
+}
+.q{
+    padding-top: 4rem;
+    background-color: rgb(250, 215, 241);
+    border-radius: 25px;
+}
+.r{
+    padding-top: 4rem;
+    background-color: rgb(247, 185, 231);
+    border-radius: 25px;
+}
+.s{
+    padding-top: 4rem;
+    background-color: rgb(250, 215, 241);
+    border-radius: 25px;
+}
+.t{
+    padding-top: 4rem;
+    background-color: rgb(247, 185, 231);
+    border-radius: 25px;
+}
+a:hover {
+    color:brown;
+}
+.social-icons {
+    background-color: rgb(141, 96, 124);
+    padding: 50px 0 20px;
+    text-align: center;
+}
+
+
